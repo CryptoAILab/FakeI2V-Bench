@@ -1,0 +1,40 @@
+ class_name:progan, model_path:../pretrained/GenImage/sdv14/convnext_base_in22k_224_drct_amp_crop/last_acc0.9991.pth, post_aug_mode:None
+acc:0.5479, auc:0.6095, recall:0.1105, precision:0.8822, f1:0.1964, fnr: 0.8895
+ class_name:stylegan, model_path:../pretrained/GenImage/sdv14/convnext_base_in22k_224_drct_amp_crop/last_acc0.9991.pth, post_aug_mode:None
+acc:0.5709, auc:0.7765, recall:0.1584, precision:0.9055, f1:0.2696, fnr: 0.8415957269237189
+ class_name:biggan, model_path:../pretrained/GenImage/sdv14/convnext_base_in22k_224_drct_amp_crop/last_acc0.9991.pth, post_aug_mode:None
+acc:0.5555, auc:0.7071, recall:0.1370, precision:0.8405, f1:0.2356, fnr: 0.863
+ class_name:cyclegan, model_path:../pretrained/GenImage/sdv14/convnext_base_in22k_224_drct_amp_crop/last_acc0.9991.pth, post_aug_mode:None
+acc:0.4989, auc:0.5642, recall:0.0083, precision:0.4400, f1:0.0163, fnr: 0.991672975018925
+ class_name:stargan, model_path:../pretrained/GenImage/sdv14/convnext_base_in22k_224_drct_amp_crop/last_acc0.9991.pth, post_aug_mode:None
+acc:0.5113, auc:0.6224, recall:0.0240, precision:0.9412, f1:0.0468, fnr: 0.9759879939969985
+ class_name:gaugan, model_path:../pretrained/GenImage/sdv14/convnext_base_in22k_224_drct_amp_crop/last_acc0.9991.pth, post_aug_mode:None
+acc:0.4913, auc:0.4419, recall:0.0088, precision:0.2514, f1:0.0170, fnr: 0.9912
+ class_name:crn, model_path:../pretrained/GenImage/sdv14/convnext_base_in22k_224_drct_amp_crop/last_acc0.9991.pth, post_aug_mode:None
+acc:0.4919, auc:0.2718, recall:0.0008, precision:0.0439, f1:0.0015, fnr: 0.9992165465371357
+ class_name:imle, model_path:../pretrained/GenImage/sdv14/convnext_base_in22k_224_drct_amp_crop/last_acc0.9991.pth, post_aug_mode:None
+acc:0.4944, auc:0.5122, recall:0.0058, precision:0.2534, f1:0.0113, fnr: 0.9942024443748041
+ class_name:seeingdark, model_path:../pretrained/GenImage/sdv14/convnext_base_in22k_224_drct_amp_crop/last_acc0.9991.pth, post_aug_mode:None
+acc:0.8556, auc:0.9407, recall:0.7722, precision:0.9267, f1:0.8424, fnr: 0.22777777777777777
+ class_name:san, model_path:../pretrained/GenImage/sdv14/convnext_base_in22k_224_drct_amp_crop/last_acc0.9991.pth, post_aug_mode:None
+acc:0.8584, auc:0.9878, recall:0.7352, precision:0.9758, f1:0.8385, fnr: 0.2648401826484018
+ class_name:deepfake, model_path:../pretrained/GenImage/sdv14/convnext_base_in22k_224_drct_amp_crop/last_acc0.9991.pth, post_aug_mode:None
+acc:0.7328, auc:0.8339, recall:0.8406, precision:0.6910, f1:0.7585, fnr: 0.15937731653076354
+ class_name:stylegan2, model_path:../pretrained/GenImage/sdv14/convnext_base_in22k_224_drct_amp_crop/last_acc0.9991.pth, post_aug_mode:None
+acc:0.5205, auc:0.6401, recall:0.0545, precision:0.8011, f1:0.1020, fnr: 0.9455433149724587
+ class_name:diffusion_datasets/dalle, model_path:../pretrained/GenImage/sdv14/convnext_base_in22k_224_drct_amp_crop/last_acc0.9991.pth, post_aug_mode:None
+acc:0.8475, auc:0.9407, recall:0.7130, precision:0.9754, f1:0.8238, fnr: 0.287
+ class_name:diffusion_datasets/glide_50_27, model_path:../pretrained/GenImage/sdv14/convnext_base_in22k_224_drct_amp_crop/last_acc0.9991.pth, post_aug_mode:None
+acc:0.7085, auc:0.9122, recall:0.4350, precision:0.9603, f1:0.5988, fnr: 0.565
+ class_name:diffusion_datasets/glide_100_10, model_path:../pretrained/GenImage/sdv14/convnext_base_in22k_224_drct_amp_crop/last_acc0.9991.pth, post_aug_mode:None
+acc:0.7355, auc:0.9494, recall:0.4890, precision:0.9645, f1:0.6490, fnr: 0.511
+ class_name:diffusion_datasets/glide_100_27, model_path:../pretrained/GenImage/sdv14/convnext_base_in22k_224_drct_amp_crop/last_acc0.9991.pth, post_aug_mode:None
+acc:0.6955, auc:0.9109, recall:0.4090, precision:0.9578, f1:0.5732, fnr: 0.591
+ class_name:diffusion_datasets/guided, model_path:../pretrained/GenImage/sdv14/convnext_base_in22k_224_drct_amp_crop/last_acc0.9991.pth, post_aug_mode:None
+acc:0.6775, auc:0.9616, recall:0.3580, precision:0.9917, f1:0.5261, fnr: 0.642
+ class_name:diffusion_datasets/ldm_100, model_path:../pretrained/GenImage/sdv14/convnext_base_in22k_224_drct_amp_crop/last_acc0.9991.pth, post_aug_mode:None
+acc:0.9910, auc:1.0000, recall:1.0000, precision:0.9823, f1:0.9911, fnr: 0.0
+ class_name:diffusion_datasets/ldm_200, model_path:../pretrained/GenImage/sdv14/convnext_base_in22k_224_drct_amp_crop/last_acc0.9991.pth, post_aug_mode:None
+acc:0.9910, auc:1.0000, recall:1.0000, precision:0.9823, f1:0.9911, fnr: 0.0
+ class_name:diffusion_datasets/ldm_200_cfg, model_path:../pretrained/GenImage/sdv14/convnext_base_in22k_224_drct_amp_crop/last_acc0.9991.pth, post_aug_mode:None
+acc:0.9910, auc:1.0000, recall:1.0000, precision:0.9823, f1:0.9911, fnr: 0.0

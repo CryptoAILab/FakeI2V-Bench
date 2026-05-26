@@ -1,0 +1,13 @@
+model: 'F3Net'
+tuning_mode: 'sft'
+task: 'one2many'
+train_sub_set: 'SEINE'
+save_dir: './results/XCLIP_Mamba_'
+
+max_epoch: 10
+bath_per_epoch: 1000
+
+train_batch_size: 64
+val_batch_size: 64
+num_workers: 16
+lr: 0.000001

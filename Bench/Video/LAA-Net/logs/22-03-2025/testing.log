@@ -1,0 +1,53 @@
+Flip Test is used --- True
+Turning on evaluation mode...
+Loading weight ... logs/24-05-2023/PoseEfficientNet_EFN_hm100_FPN_NoBasedCLS_Focal_C3_256Cstency100_32FXRayv2_SAM(Adam)_ADV_Erasing1_OutSigmoid_model_best.pth
+Flip Test is used --- True
+Turning on evaluation mode...
+Loading weight ... /data2/lp/LAA-Net/pretrained_weights/PoseEfficientNet_EFN_hm100_EFPN_NoBasedCLS_Focal_C3_256Cstency100_32BI_SAM(Adam)_ADV_Erasing1_OutSigmoid_model_best.pth
+Using metric-base binary for evaluation!
+Video level evaluation mode: True
+Flip Test is used --- True
+Turning on evaluation mode...
+Loading weight ... /data2/lp/LAA-Net/pretrained_weights/PoseEfficientNet_EFN_hm100_EFPN_NoBasedCLS_Focal_C3_256Cstency100_32BI_SAM(Adam)_ADV_Erasing1_OutSigmoid_model_best.pth
+Using metric-base binary for evaluation!
+Video level evaluation mode: True
+Flip Test is used --- True
+Turning on evaluation mode...
+Loading weight ... /data2/lp/LAA-Net/pretrained_weights/PoseEfficientNet_EFN_hm100_EFPN_NoBasedCLS_Focal_C3_256Cstency100_32BI_SAM(Adam)_ADV_Erasing1_OutSigmoid_model_best.pth
+Using metric-base binary for evaluation!
+Video level evaluation mode: True
+Flip Test is used --- True
+Turning on evaluation mode...
+Loading weight ... /data2/lp/LAA-Net/pretrained_weights/PoseEfficientNet_EFN_hm100_EFPN_NoBasedCLS_Focal_C3_256Cstency100_32BI_SAM(Adam)_ADV_Erasing1_OutSigmoid_model_best.pth
+Using metric-base binary for evaluation!
+Video level evaluation mode: True
+Flip Test is used --- True
+Turning on evaluation mode...
+Loading weight ... /data2/lp/LAA-Net/pretrained_weights/PoseEfficientNet_EFN_hm100_EFPN_NoBasedCLS_Focal_C3_256Cstency100_32BI_SAM(Adam)_ADV_Erasing1_OutSigmoid_model_best.pth
+Using metric-base binary for evaluation!
+Video level evaluation mode: True
+Flip Test is used --- True
+Turning on evaluation mode...
+Loading weight ... /data2/lp/LAA-Net/pretrained_weights/PoseEfficientNet_EFN_hm100_EFPN_NoBasedCLS_Focal_C3_256Cstency100_32BI_SAM(Adam)_ADV_Erasing1_OutSigmoid_model_best.pth
+Using metric-base binary for evaluation!
+Video level evaluation mode: True
+Flip Test is used --- True
+Turning on evaluation mode...
+Loading weight ... /data2/lp/LAA-Net/pretrained_weights/PoseEfficientNet_EFN_hm100_EFPN_NoBasedCLS_Focal_C3_256Cstency100_32BI_SAM(Adam)_ADV_Erasing1_OutSigmoid_model_best.pth
+Using metric-base binary for evaluation!
+Video level evaluation mode: True
+Flip Test is used --- True
+Turning on evaluation mode...
+Loading weight ... /data2/lp/LAA-Net/pretrained_weights/PoseEfficientNet_EFN_hm100_EFPN_NoBasedCLS_Focal_C3_256Cstency100_32BI_SAM(Adam)_ADV_Erasing1_OutSigmoid_model_best.pth
+Using metric-base binary for evaluation!
+Video level evaluation mode: True
+Flip Test is used --- True
+Turning on evaluation mode...
+Loading weight ... /data2/lp/LAA-Net/pretrained_weights/PoseEfficientNet_EFN_hm100_EFPN_NoBasedCLS_Focal_C3_256Cstency100_32BI_SAM(Adam)_ADV_Erasing1_OutSigmoid_model_best.pth
+Using metric-base binary for evaluation!
+Video level evaluation mode: True
+Flip Test is used --- True
+Turning on evaluation mode...
+Loading weight ... /data2/lp/LAA-Net/pretrained_weights/PoseEfficientNet_EFN_hm100_EFPN_NoBasedCLS_Focal_C3_256Cstency100_32BI_SAM(Adam)_ADV_Erasing1_OutSigmoid_model_best.pth
+Using metric-base binary for evaluation!
+Video level evaluation mode: True

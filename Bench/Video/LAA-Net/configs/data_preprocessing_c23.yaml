@@ -1,0 +1,15 @@
+PREPROCESSING:
+  DATASET: GenVideo
+  COMPRESSION: c23
+  SPLIT: test
+  ROOT: /data2/lp/IVBridge_datasets/SourceFrames
+  FAKETYPE: [fake]
+  IMAGE_SUFFIX: jpg
+  DATA_TYPE: GenVideo
+  LABEL: [fake]
+  facial_lm_pretrained: pretrained/shape_predictor_81_face_landmarks.dat
+  N_LANDMARKS: 81
+  SAMPLING:
+    ACTIVE: False
+    NUMBERS: 8
+  DEBUG: False
